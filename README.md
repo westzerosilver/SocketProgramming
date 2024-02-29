@@ -19,4 +19,4 @@
 
 ![JAVA_파일송수신_GUI](https://github.com/westzerosilver/SocketProgramming/assets/87890149/e8920a76-a630-42b4-8bcd-a5ce444495a4)
 
-[JAVA_파일송수신_GUI5.pdf](https://github.com/westzerosilver/SocketProgramming/files/14450704/JAVA_._GUI5.pdf)
+![JAVA_파일송수신_GUI5](https://github.com/westzerosilver/SocketProgramming/assets/87890149/1b289ca7-b645-406f-aadb-4e604a178c11)
